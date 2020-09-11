@@ -1,1 +1,1 @@
-# DigitalHouseExercicioVendedor
+# DigitalHouseExercicioVendedor -- Encapsulamento
